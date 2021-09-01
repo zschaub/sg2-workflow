@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 from sklearn import metrics
 from sklearn.cluster import KMeans
 from sklearn.manifold import TSNE
-from gap_statistic import OptimalK
+# from gap_statistic import OptimalK
 
 from dataset import Dataset, collate_skip_empty
 from resnet import ResNet101
